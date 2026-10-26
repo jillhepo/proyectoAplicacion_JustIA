@@ -1,7 +1,7 @@
 # ==============================================================================
 # PROYECTO JUSTIA - PRODUCTO MÍNIMO VIABLE (MVP)
 # Módulo: Clasificación de Consultas Jurídicas, Extracción de Tokens y Explicabilidad
-# Autor: Estudiante Posgrado - Corporación Universitaria de Asturias
+# Autor: Jillany Henry Pomare - Estudiante Posgrado - Corporación Universitaria de Asturias
 # ==============================================================================
 
 import numpy as np
